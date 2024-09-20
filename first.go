@@ -1,7 +1,7 @@
 package funding
 
 type Fund struct {
-	balance iNt
+	balance iNT
 }
 
 func NewFund(initialBalance int) *Fund {
